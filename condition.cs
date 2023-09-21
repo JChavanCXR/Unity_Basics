@@ -1,5 +1,5 @@
 // See https://aka.ms/new-console-template for more information
-Console.Title = "SkyNet";
+/*Console.Title = "SkyNet";
 Console.ForegroundColor = ConsoleColor.Green;
 int num1;
 int num2;
@@ -43,3 +43,4 @@ else
 }
 
 Console.ReadKey();
+*/
